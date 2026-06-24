@@ -24,8 +24,8 @@ return {
     end,
 
     -- https://github.com/CopilotC-Nvim/CopilotChat.nvim/issues/1153
-    url = "https://github.com/adborden/CopilotChat.nvim",
-    branch = "bugfix/accept-strips-path-1153",
+    --url = "https://github.com/adborden/CopilotChat.nvim",
+    --branch = "bugfix/accept-strips-path-1153",
   },
   --{
   --  "olimorris/codecompanion.nvim",

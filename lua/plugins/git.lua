@@ -4,6 +4,9 @@ return {
     enabled = false, -- Set to false to disable Neogit
   },
   {
+    "shumphrey/fugitive-gitlab.vim",
+  },
+  {
     "tpope/vim-fugitive",
     -- Set lazy = false to ensure it loads early, as Git commands might be needed often.
     -- Alternatively, you can use the 'cmd' property to load it only when specific commands are run.
